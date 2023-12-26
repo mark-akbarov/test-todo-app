@@ -37,14 +37,14 @@
 
 #### Project endpoints
 
-Auth:
-    signup - api/v1/signup/
-    login  - api/v1/login/
+Auth:\n
+\tsignup - api/v1/signup/\n
+\tlogin  - api/v1/login/\n
 
-Todo:
-    create - api/v1/tasks/
-    read   - api/v1/tasks/1/
-    update - api/v1/tasks/1/
-    delete - api/v1/tasks/1/
-    current - api/v1/tasks/
-    completed - api/v1/tasks/completed/
+Todo:\t
+\tcreate - api/v1/tasks/ \n
+\tread   - api/v1/tasks/1/ \n
+\tupdate - api/v1/tasks/1/ \n
+\tdelete - api/v1/tasks/1/ \n
+\tcurrent - api/v1/tasks/ \n
+\tcompleted - api/v1/tasks/completed/ \n
